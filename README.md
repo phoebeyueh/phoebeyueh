@@ -2,7 +2,9 @@
 
 ## 🪄 About Me
 
-I'm a Portfolio Analytics Manager at Scotiabank in Toronto, specializing in analytics-driven strategies with a strong finance background, CFA, and FRM under my belt. Currently pursuing my Master in Information & Data Science at UC Berkeley, my journey from business to data science has been fueled by a deep interest in leveraging data for impactful insights. Being a product co-owner of an internal portfolio management app in my current role, I've also successfully doubled app monthly usage within 12 months from 60K to ~140K+, and witnessed its influence on over 3,000 users across Canada. Eagerly seeking new opportunities in the data science realm, as I bring a unique blend of financial acumen and data-driven passion to the table. Let's connect and explore the possibilities! 🚀
+💼 I'm a Portfolio Analytics Manager at Scotiabank in Toronto, specializing in analytics-driven strategies with a strong finance background, CFA, and FRM under my belt. 
+👩‍🎓 Currently pursuing my Master in Information & Data Science at UC Berkeley, my journey from business to data science has been fueled by a deep interest in leveraging data for impactful insights. Being a product co-owner of an internal portfolio management app in my current role, I've also witnessed its influence on over 3,000 users across Canada. 
+🚀 Eagerly seeking new opportunities in the data science realm, as I bring a unique blend of financial acumen and data-driven passion to the table. Let's connect and explore the possibilities! 
 
 ## 🪄 Fun fact
 
