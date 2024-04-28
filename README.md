@@ -2,12 +2,12 @@
 
 ## 🪄 About Me
 
-🔧 Expertise in data cleaning, extraction, and manipulation using SQL, Python, SAS, and R
-📈 3+ years of data storytelling experience with visualizations and dashboards in PowerBI and Tableau
-🚀 Proficiency in predictive modelling (Regression, Clustering, Neural Networks, etc.) on large datasets
-☁️ Familiarity with cloud infrastructure (AWS, Google Cloud Platform, Azure, etc.) 
-🏦 Solid understanding of banking products and customer engagement strategies in Retail & Small Business 
-💬 Effective team player adept at bridging the gap between technical and non-technical stakeholders
+* 🔧 Expertise in data cleaning, extraction, and manipulation using SQL, Python, SAS, and R
+* 📈 3+ years of data storytelling experience with visualizations and dashboards in PowerBI and Tableau
+* 🚀 Proficiency in predictive modelling (Regression, Clustering, Neural Networks, etc.) on large datasets
+* ☁️ Familiarity with cloud infrastructure (AWS, Google Cloud Platform, Azure, etc.) 
+* 🏦 Solid understanding of banking products and customer engagement strategies in Retail & Small Business 
+* 💬 Effective team player adept at bridging the gap between technical and non-technical stakeholders
 
 ## 🪄 Fun fact
 
